@@ -1,5 +1,5 @@
-resource "aws_ssm_parameter" "bobby" { # changer bobby
-  name  = "bobby" # changer bobby
+resource "aws_ssm_parameter" "dylan" { # changer bobby
+  name  = "dylan" # changer bobby
   type  = "String"
-  value = "cool" # changer ça
+  value = "dylan" # changer ça
 }
